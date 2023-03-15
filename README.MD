@@ -1,3 +1,3 @@
-This is my first Git project.
-I am learning how to do git project
+This is my first Git project
+This is the second line
 
